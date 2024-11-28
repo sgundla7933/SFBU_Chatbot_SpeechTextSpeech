@@ -1,4 +1,3 @@
-# Smart Conversational Assistant with Speech and Document Processing
 
 ## Overview
 This project implements a smart chatbot capable of conversational AI with features like:
